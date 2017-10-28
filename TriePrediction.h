@@ -5,8 +5,7 @@
 #define MAX_CHARACTERS_PER_WORD 1023
 
 
-typedef struct TrieNode
-{
+typedef struct TrieNode {
 	// number of times this string occurs in the corpus
 	int count;
 
@@ -18,7 +17,7 @@ typedef struct TrieNode
 } TrieNode;
 
 
-// Functional Prototypes
+//  Functional Prototypes
 
 TrieNode *buildTrie(char *filename);
 
