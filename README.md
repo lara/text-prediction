@@ -1,2 +1,2 @@
 # Text-Prediction
-A programming assignment for COP3502 that implements an advanced tree data structure, a trie, to complete a text prediction task.
+A humbly successful attempt to employ an advanced tree data structure, trie, to complete a text prediction task.
